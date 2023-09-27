@@ -12,7 +12,7 @@ let time
 // console.log(parseInt((audioElement.currentTime/audioElement.duration)*100));
 
 let songs=[
-    {songName:"Shri Krishna Govind Hare Murari",filePath:'krishna.mp3',coverPath:"krishna.jpg" ,time:'2:34'},
+    {songName:"Shri Krishna Govind Hare Murari",filePath:'krishna.mp3',coverPath:"Krishna.jpg" ,time:'2:34'},
     {songName:"Ekadantay ..",filePath:'Ekadantaya_Vakratundaya_Gauri_Tanaya_Dhimi___Full_Song_with_Lyrics___Shankar_Mahadevan(256k).mp3',coverPath:"ganpati.jpg",time:'7:02'},
     {songName:"o meri maa",filePath:'maa.m4a',coverPath:"maa.jpg" ,time:'4:03'},
     {songName:"khari Biscuit",filePath:'Khari__Khari_Biscuit__Vedashree_Khadilkar_&_Adarsh_Kadam__Kunal_Ganjawala(128k).m4a',coverPath:"khari.jpg",time:'3:23'},
