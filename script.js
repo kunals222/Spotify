@@ -12,11 +12,11 @@ let time
 // console.log(parseInt((audioElement.currentTime/audioElement.duration)*100));
 
 let songs=[
-    {songName:"Shri Krishna Govind Hare Murari",filePath:'../templates/krishna.mp3',coverPath:"../templates/krishna.jpg" ,time:'2:34'},
-    {songName:"Ekadantay ..",filePath:'../templates/Ekadantaya_Vakratundaya_Gauri_Tanaya_Dhimi___Full_Song_with_Lyrics___Shankar_Mahadevan(256k).mp3',coverPath:"../templates/ganpati.jpg",time:'7:02'},
-    {songName:"o meri maa",filePath:'../templates/maa.m4a',coverPath:"../templates/maa.jpg" ,time:'4:03'},
-    {songName:"khari Biscuit",filePath:'../templates/Khari__Khari_Biscuit__Vedashree_Khadilkar_&_Adarsh_Kadam__Kunal_Ganjawala(128k).m4a',coverPath:"../templates/khari.jpg",time:'3:23'},
-    {songName:"Jo Tum Na Ho",filePath:'../templates/jo_tum_na_ho.m4a',coverPath:"../templates/jo_tum.jpg",time:'4:15'},
+    {songName:"Shri Krishna Govind Hare Murari",filePath:'krishna.mp3',coverPath:"krishna.jpg" ,time:'2:34'},
+    {songName:"Ekadantay ..",filePath:'Ekadantaya_Vakratundaya_Gauri_Tanaya_Dhimi___Full_Song_with_Lyrics___Shankar_Mahadevan(256k).mp3',coverPath:"ganpati.jpg",time:'7:02'},
+    {songName:"o meri maa",filePath:'maa.m4a',coverPath:"maa.jpg" ,time:'4:03'},
+    {songName:"khari Biscuit",filePath:'Khari__Khari_Biscuit__Vedashree_Khadilkar_&_Adarsh_Kadam__Kunal_Ganjawala(128k).m4a',coverPath:"khari.jpg",time:'3:23'},
+    {songName:"Jo Tum Na Ho",filePath:'jo_tum_na_ho.m4a',coverPath:"jo_tum.jpg",time:'4:15'},
     
 ];
 
